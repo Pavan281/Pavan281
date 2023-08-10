@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Data Science, Data Analytics, Decision Scientist.
 - 🌱 I’m currently learning ... Python, R, SQL, Excel, Data Analytics, Data Science.
-- 👯 I’m looking to collaborate on ... Mu Sigma labs and technologies.
+- 👯 I’m looking to collaborate on ... Mu Sigma labs and technologies; Banking; Pharma; Retail; Technology; etc.
 - 🤔 I’m looking for help with ... Mu Sigma company.
 - 💬 Ask me about ... Anything since I wanted to upskill myself and wanted to gain some knowledge, upgrade the skills, etc. 
 - 📫 How to reach me: ... I have shared or provided the links below. Please do check out the links here.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there, This is PANDIPATI PAVAN.👋
 ------------------------------------------------------
 I have completed my final Year under B.Tech stream in the Vellore Institute of Technology (VIT) Bhopal University.
-I am going to enter into the Corporte World and finally got an offer "Mu Sigma" as a trainee decision scientist.
+I am going to enter into the Corporate World (Software field) and finally got an offer "Mu Sigma" as a trainee decision scientist.
 
 - 📫 How to reach me: pavanpandipati0@gmail.com
 - 👨‍🎓 digital portfolio : <a href = "https://pavan281.github.io/">Please do check out my portfolio...</a>
